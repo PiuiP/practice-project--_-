@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
-languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
+baseurl = "/"
+languageCode = "ru-RU"
+title = "Электронный мастер-консультант дилерского автотехцентра"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -16,3 +16,81 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+[menu]
+  [[menu.main]]
+  identifier = "home"
+  name = "Главная"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "about"
+  name = "О проекте"
+  url = "/page/about/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "contributors"
+  name = "Участники"
+  url = "/page/contributors/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "journal"
+  name = "Журнал"
+  url = "/page/journal/"
+  weight = 4
+
+  [[menu.main]]
+  identifier = "resources"
+  name = "Ресурсы"
+  url = "/page/resources/"
+  weight = 5
+
+[params]
+  # Pages placed under these sections will be shown on homepage and archive page.
+  mainSections = ["post"]
+  # Output page's full content in RSS.
+  rssFullContent = true
+  favicon = "/favicon.png"
+
+  [params.footer]
+  since = 2025
+  customText = "© 2025 Минок Алина, 241-327"
+
+  [params.dateFormat]
+  published = "Jan 02, 2006"
+  lastUpdated = "Jan 02, 2006 15:04 MST"
+
+  [params.sidebar]
+  emoji = ""
+  subtitle = "Проект по курсу 'Проектная деятельность'"
+
+    [params.sidebar.avatar]
+    enabled = true
+    local = true
+    src = "img/avatar.png"
+
+  [params.article]
+  headingAnchor = false
+  math = false
+  readingTime = false
+
+    [params.article.license]
+    enabled = true
+    default = "Licensed under CC BY-NC-SA 4.0"
+
+  ## Widgets
+  [[params.widgets.homepage]]
+  type = "search"
+
+  [params.colorScheme]
+  toggle = true
+  default = "auto"
+
+  [params.imageProcessing.cover]
+  enabled = true
+
+  [params.imageProcessing.content]
+  enabled = true
