@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>О Проекте on Электронный мастер-консультант дилерского автотехцентра</title>
+        <link>http://localhost:1313/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5/</link>
+        <description>Recent content in О Проекте on Электронный мастер-консультант дилерского автотехцентра</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru-RU</language>
+        <lastBuildDate>Thu, 10 Apr 2025 18:21:58 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>О проекте</title>
+        <link>http://localhost:1313/pages/about/</link>
+        <pubDate>Thu, 10 Apr 2025 18:21:58 +0300</pubDate>
+        
+        <guid>http://localhost:1313/pages/about/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

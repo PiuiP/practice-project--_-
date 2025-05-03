@@ -1,0 +1,72 @@
+baseURL = "https://example.org/"
+languageCode = "ru-RU"
+title = "Электронный мастер-консультант дилерского автотехцентра"
+theme = "hugo-theme-stack"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  mainSections = ["pages"]
+
+  [params.sidebar]
+    compact = false 
+    emoji = ""
+    subtitle = "Проект по курсу 'Проектная деятельность'"
+
+    [params.sidebar.avatar]
+      enabled = true               
+      local = true                 
+      src = "/avatar.png" 
+
+  # Настройка виджетов
+  [params.widgets]
+    [[params.widgets.page]]
+      type = "toc"  
+
+    [[params.widgets.homepage]]
+      type = "tag-cloud"
+      [params.widgets.homepage.params]
+        limit = 10 
+  # Настройка подвала
+  [params.footer]
+    customText = "© Минок Алина, 241-327"
+
+# Настройка меню
+[menu]
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+    [[menu.main.params]]
+      icon = "home"
+
+  [[menu.main]]
+    name = "О проекте"
+    url = "/pages/about/"
+    weight = 2
+    [[menu.main.params]]
+      icon = "link"
+
+  [[menu.main]]
+    name = "Участники"
+    url = "/pages/members/"
+    weight = 3
+    [[menu.main.params]]
+      icon = "user"
+
+  [[menu.main]]
+    name = "Журнал"
+    url = "/posts/"
+    weight = 4
+    [[menu.main.params]]
+      icon = "date"
+
+  [[menu.main]]
+    name = "Ресурсы"
+    url = "/pages/resources/"
+    weight = 5
+    [[menu.main.params]]
+      icon = "link"
+
+

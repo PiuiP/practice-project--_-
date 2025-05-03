@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Электронный мастер-консультант дилерского автотехцентра</title>
+        <link>http://localhost:1313/pages/</link>
+        <description>Recent content on Электронный мастер-консультант дилерского автотехцентра</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru-RU</language>
+        <lastBuildDate>Thu, 10 Apr 2025 18:22:34 +0300</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Электронный мастер-консультант дилерского автотехцентра</title>
+        <link>http://localhost:1313/pages/main_page/</link>
+        <pubDate>Thu, 10 Apr 2025 18:22:26 +0300</pubDate>
+        
+        <guid>http://localhost:1313/pages/main_page/</guid>
+        <description>&lt;img src="http://localhost:1313/images/main_p.png" alt="Featured image of post Электронный мастер-консультант дилерского автотехцентра" /&gt;&lt;h2 id=&#34;электронный-мастер-консультант-дилерского-автотехцентра&#34;&gt;&amp;lsquo;Электронный мастер-консультант дилерского автотехцентра&amp;rsquo;
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>О проекте</title>
+        <link>http://localhost:1313/pages/about/</link>
+        <pubDate>Thu, 10 Apr 2025 18:21:58 +0300</pubDate>
+        
+        <guid>http://localhost:1313/pages/about/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Участники проекта</title>
+        <link>http://localhost:1313/pages/members/</link>
+        <pubDate>Thu, 10 Apr 2025 18:22:08 +0300</pubDate>
+        
+        <guid>http://localhost:1313/pages/members/</guid>
+        <description>&lt;h1 id=&#34;участники-проекта&#34;&gt;Участники проекта
+&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>Ресурсы и ссылки</title>
+        <link>http://localhost:1313/pages/resources/</link>
+        <pubDate>Thu, 10 Apr 2025 18:22:34 +0300</pubDate>
+        
+        <guid>http://localhost:1313/pages/resources/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
