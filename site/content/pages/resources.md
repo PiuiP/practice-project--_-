@@ -7,16 +7,29 @@ weight = 4
 tags = ["Ресурсы", "Ссылки"]
 
 [[links]]
+  title = "Московский Политех"
+  description = "Официальный сайт университета, где реализуется проект."
+  website = "https://mospolytech.ru/"
+  image = "/images/resources1.png"
+
+[[links]]
+  title = "ААРОН АВТО"
+  description = "Сайт организации-партнера, предоставляющей базу для тестирования и внедрения сервиса."
+  website = "https://www.aaron-auto.ru/"
+  image = "/images/resources3.png"
+
+[[links]]
+  title = "Автоматизация сервисных процессов в автобизнесе (Статья)"
+  description = "Материал, позволяющий лучше понять суть проекта."
+  website = "https://www.yclients.com/journal/yclients-dlya-avtobusinesa-zachem-i-kak-rabotat"
+  image = "/images/resources4.png"
+
+[[links]]
   title = "HUGO"
   description = "Документация статического генератора сайтов."
   website = "https://gohugo.io/about/introduction/"
-  image = "https://gohugo.io/images/hugo-logo-wide.svg"
+  image = "/images/resources2.png"
 
-[[links]]
-  title = "Markdown Guide"
-  description = "Статья про Markdown."
-  website = "https://www.markdownguide.org/basic-syntax/"
-  image = "https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.6.3/1741534224980/Microsoft.VisualStudio.Services.Icons.Default"
 
 [[links]]
   title = "Markdown All in One"
@@ -25,4 +38,3 @@ tags = ["Ресурсы", "Ссылки"]
   image = "https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.6.3/1741534224980/Microsoft.VisualStudio.Services.Icons.Default"
 
 +++
-
