@@ -31,6 +31,8 @@ tags = ["Информация"]
 
 ![R-EVOlution Conference](/images/л.png)
 
+![подтверждение регистрации на конференцию](/images/t.png)
+
 
 
 
